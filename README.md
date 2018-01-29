@@ -1,6 +1,10 @@
-# Artificial Intelligence for Video Games (Unity and Mixamo)
+# Artificial Intelligence for Video Games (Unity)
 
 This repository is associated with the subject Artificial Intelligence for Video Games taught in the university School of Arts and Letters (Bogotá) by Juan Olaya in the semester 2017.1.
+
+For this course we use [Unity 3D](https://unity3d.com/) and [Mixamo](https://www.mixamo.com/)...
+
+as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
 
 De manera individual programar en Unity 5 un videojuego RPG (Third Person) utilizando los conceptos de Inteligencia Artificial vistos en clase:
 
