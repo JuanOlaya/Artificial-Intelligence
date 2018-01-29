@@ -54,7 +54,7 @@ The students designed and developed (###) Entertainment Games using Unity in the
   </a>
 </p>
 
-## AI LINKS
+## AI Links
 
-## VIDEO GAME RESOURCES AND TOOLS
+## Video Game Resources
 https://poly.google.com/
