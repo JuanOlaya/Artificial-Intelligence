@@ -1,4 +1,4 @@
-# Artificial Intelligence for Video Games (Unity)
+# ARTIFICIAL INTELLIGENCE FOR VIDEO GAMES (Unity)
 
 This repository is associated with the subject Artificial Intelligence for Video Games taught in the university School of Arts and Letters (Bogotá) by Juan Olaya in the semester 2017.1.
 
@@ -8,9 +8,7 @@ as VR framework. OSVR is able to run on any Android device provided of a gyrosco
 
 De manera individual programar en Unity 5 un videojuego RPG (Third Person) utilizando los conceptos de Inteligencia Artificial vistos en clase:
 
-# AI BEHAVIOURS FOR VIDEOGAMES
-
-
+# 1. AI Behaviours for Video games
 
 Implementación de Non-player character (Personaje autónomo)
 Pursuing Behavior (Comportamiento de persecución)
@@ -36,7 +34,8 @@ Utilizar Assets de modelos 3D y texturas de cualquier proveedor asociadas a su n
 
 NO es permitido utilizar Assets de proveedores externos, aunque estén en la Asset Store, para modificar la lógica del videojuego (AI, Cámaras...). Si se propone un Asset consultar con el profesor antes de la utilización en el proyecto. 
 
-# MANAGEMENT AI BEHAVIOURS 
+# 2. Management AI Behaviours
+MANAGEMENT AI BEHAVIOURS 
 Gestión de comportamientos por medio de Finite State Machine (Máquina de Estados Finitos)
 https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html
 
@@ -55,7 +54,7 @@ The students designed and developed (###) Entertainment Games using Unity in the
   </a>
 </p>
 
-# AI LINKS
+## AI LINKS
 
-# VIDEOGAMES TOOLS
+## VIDEO GAME RESOURCES AND TOOLS
 https://poly.google.com/
