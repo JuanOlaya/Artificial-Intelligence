@@ -1,6 +1,6 @@
 # ARTIFICIAL INTELLIGENCE FOR VIDEO GAMES (Unity)
 
-This repository is associated with the subject Artificial Intelligence for Video Games taught in the university School of Arts and Letters (Bogotá) by Juan Olaya in the semester 2017.1.
+This repository is associated with the subject Artificial Intelligence for Video Games taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya in the semester 2017.1.
 
 For this course we use [Unity 3D](https://unity3d.com/) and [Mixamo](https://www.mixamo.com/)...
 
