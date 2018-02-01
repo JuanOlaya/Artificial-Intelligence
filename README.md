@@ -67,7 +67,8 @@ Sound Effects
 
 # AI BIBLIOGRAPHY
 - [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
-- [The Ghost in the Machine (1982)](https://www.amazon.com/Ghost-Machine-Arthur-Koestler/dp/1939438349/ref=sr_1_1?s=books&ie=UTF8&qid=1489518939&sr=1-1&keywords=ghost+in+the+machine)
+- [The Ghost in the Machine, Koestler (1982)](https://www.amazon.com/Ghost-Machine-Arthur-Koestler/dp/1939438349/ref=sr_1_1?s=books&ie=UTF8&qid=1489518939&sr=1-1&keywords=ghost+in+the+machine)
+- [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
 
 # STUDENT PROJECTS
 The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This course was taught in the second semester of the year 2017. The video below shows these projects:
@@ -81,4 +82,3 @@ The students designed and developed (###) Entertainment Games using Unity in the
 
 ## Video Game Resources
 - [Google Poly](https://poly.google.com/)
-- [A Study Path For Game Programmer](https://github.com/miloyip/game-programmer)
