@@ -6,7 +6,7 @@ For this course we use [Unity 3D](https://unity3d.com/) as game engine and [Mixa
 
 RPG (Third Person) 
 
-# 1. AI Behaviours for Video games
+### 1. AI Behaviours for Video games
 
 For this course we developed a third person video with Non-Player Character (NPC) as enemies with following AI Behaviours:
 
@@ -39,7 +39,7 @@ Utilizar Assets de modelos 3D y texturas de cualquier proveedor asociadas a su n
 
 NO es permitido utilizar Assets de proveedores externos, aunque estén en la Asset Store, para modificar la lógica del videojuego (AI, Cámaras...). Si se propone un Asset consultar con el profesor antes de la utilización en el proyecto. 
 
-# 2. Management AI Behaviours
+### 2. Management AI Behaviours
 MANAGEMENT AI BEHAVIOURS 
 Gestión de comportamientos por medio de Finite State Machine (Máquina de Estados Finitos)
 https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html
@@ -47,7 +47,7 @@ https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html
 Mezcla de comportamientos por medio de Blend Trees (Árboles de Mezcla)
 https://docs.unity3d.com/es/current/Manual/class-BlendTree.html
 
-# 3. Software Patterns for Health Player Management 
+### 3. Software Patterns for Health Player Management 
 
 OSVR, as VR framework, allows use concepts such Interactive Item and Eye Raycaster. In order, to use these concepts properly is crucial to add the VR Eye Raycaster script to only one GameObject. For instance, add it to the camera GameObject. Also, add VR Interactive Item script to each GameObject.
 
@@ -55,7 +55,7 @@ Assignment: Manage the health for the main character and the enemies. For this a
 
 Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 
-# 6. Interactive Experience
+### 6. Interactive Experience
 For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
 
 Non-Player Characters (NPC) from Mixamo
@@ -65,12 +65,12 @@ Physics Simulation
 Explosion Simulation
 Sound Effects
 
-# AI BIBLIOGRAPHY
+### AI BIBLIOGRAPHY
 - [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 - [The Ghost in the Machine, Koestler (1982)](https://www.amazon.com/Ghost-Machine-Arthur-Koestler/dp/1939438349/ref=sr_1_1?s=books&ie=UTF8&qid=1489518939&sr=1-1&keywords=ghost+in+the+machine)
 - [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
 
-# STUDENT PROJECTS
+### STUDENT PROJECTS
 The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This course was taught in the second semester of the year 2017. The video below shows these projects:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dm2Lv3_lKhE&t=1s" target="_blank">
@@ -78,7 +78,7 @@ The students designed and developed (###) Entertainment Games using Unity in the
   </a>
 </p>
 
-## AI Links
+### AI Links
 
-## Video Game Resources
+### Video Game Resources
 - [Google Poly](https://poly.google.com/)
