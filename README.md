@@ -2,21 +2,26 @@
 
 This repository is associated with the subject Artificial Intelligence for Video Games taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya in the semester 2017.1.
 
-For this course we use [Unity 3D](https://unity3d.com/) and [Mixamo](https://www.mixamo.com/)...
+For this course we use [Unity 3D](https://unity3d.com/) as game engine and [Mixamo](https://www.mixamo.com/) as 3D animated characters repository
 
-as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
-
-De manera individual programar en Unity 5 un videojuego RPG (Third Person) utilizando los conceptos de Inteligencia Artificial vistos en clase:
+RPG (Third Person) 
 
 # 1. AI Behaviours for Video games
 
-Implementación de Non-player character (Personaje autónomo)
-Pursuing Behavior (Comportamiento de persecución)
-Attacking Behavior (Comportamiento de ataque)
-Patrolling Behavior (Comportamiento de patrullaje)
+For this course we developed a third person video with Non-Player Character (NPC) as enemies with following AI Behaviours:
+
+- Patrolling Behaviour
+- Attacking Behaviour (Kicking or Punching)
+- Pursuing Behaviour (Pathfinding)
+- Return to patrolling when the chase is canceled (Pathfinding)
+
+For main character and non-player character we implement:
+- Dying Behaviour
+- Shove Reaction 
+ 
 Pathfinding (Ruta más corta)
 Retorno a Patrolling cuando el enemigo no esté en estado de persecusión. Visto en clase
-Dying Behavior (Comportamiento Moribundo): Para personaje principal y enemigo
+ (Comportamiento Moribundo): Para personaje principal y enemigo
 Jumping (Saltar) : De acuerdo a la información que envié al correo
 Utilizando Any State: En el personaje principal implementar comportamientos de Ataque. En mi caso utilicé Kicking (Patada) y Punching (Puñetazo).
 https://drive.google.com/drive/folders/0B03A1dZhlfGFeTBPdkF1S09tSDg?usp=sharing
@@ -42,9 +47,27 @@ https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html
 Mezcla de comportamientos por medio de Blend Trees (Árboles de Mezcla)
 https://docs.unity3d.com/es/current/Manual/class-BlendTree.html
 
+# 3. Software Patterns for Health Player Management 
+
+OSVR, as VR framework, allows use concepts such Interactive Item and Eye Raycaster. In order, to use these concepts properly is crucial to add the VR Eye Raycaster script to only one GameObject. For instance, add it to the camera GameObject. Also, add VR Interactive Item script to each GameObject.
+
+Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the colisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character.
+
+Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
+
+# 6. Interactive Experience
+For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
+
+Non-Player Characters (NPC) from Mixamo
+Waypoints (to move characters, animals or vehicles around)
+Textures
+Physics Simulation
+Explosion Simulation
+Sound Effects
 
 # AI BIBLIOGRAPHY
-[The Ghost in the Machine](https://www.amazon.com/Ghost-Machine-Arthur-Koestler/dp/1939438349/ref=sr_1_1?s=books&ie=UTF8&qid=1489518939&sr=1-1&keywords=ghost+in+the+machine)
+- [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
+- [The Ghost in the Machine (1982)](https://www.amazon.com/Ghost-Machine-Arthur-Koestler/dp/1939438349/ref=sr_1_1?s=books&ie=UTF8&qid=1489518939&sr=1-1&keywords=ghost+in+the+machine)
 
 # STUDENT PROJECTS
 The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This course was taught in the second semester of the year 2017. The video below shows these projects:
@@ -57,4 +80,5 @@ The students designed and developed (###) Entertainment Games using Unity in the
 ## AI Links
 
 ## Video Game Resources
-https://poly.google.com/
+- [Google Poly](https://poly.google.com/)
+- [A Study Path For Game Programmer](https://github.com/miloyip/game-programmer)
