@@ -65,14 +65,14 @@ Physics Simulation
 Explosion Simulation
 Sound Effects
 
-### AI BIBLIOGRAPHY
+### AI Bibliography
 - [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 - [The Ghost in the Machine, Koestler (1982)](https://www.amazon.com/Ghost-Machine-Arthur-Koestler/dp/1939438349/ref=sr_1_1?s=books&ie=UTF8&qid=1489518939&sr=1-1&keywords=ghost+in+the+machine)
 - [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
 
 - [Artificial Intelligence: A Modern Approach, Russell (2009)](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_1?s=books&ie=UTF8&qid=1517513059&sr=1-1)
 
-### STUDENT PROJECTS
+### Student Projects
 The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This course was taught in the second semester of the year 2017. The video below shows these projects:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dm2Lv3_lKhE&t=1s" target="_blank">
@@ -80,13 +80,12 @@ The students designed and developed (###) Entertainment Games using Unity in the
   </a>
 </p>
 
-### AI Links
+***
 
 ### Video Game Resources
 - [Google Poly](https://poly.google.com/)
 - [Asset Store](https://www.assetstore.unity3d.com)
 - [Textures](https://www.textures.com/)
-
 
 ***
 Jumping (Saltar) : De acuerdo a la información que envié al correo
