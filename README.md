@@ -23,20 +23,12 @@ And exclusively for the main character:
 - Jumping
 - Kicking
 - Punching 
- 
 
-https://drive.google.com/drive/folders/0B03A1dZhlfGFeTBPdkF1S09tSDg?usp=sharing
-Reacción de puño o patada: Para personaje principal y los enemigos. Yo utilicé la animación Shove Reaction de Mixamo
-Adicionalmente, incluir en el videojuego:
-
-Personajes diferentes (1 player, enemigos, transeuntes, animales) asociadas a su narrativa interactiva.
-
-Animaciones Mixamo asociadas a su narrativa interactiva.
-
-Grupos de enemigos autónomos (Non-Player Character)
-
-Gestión de salud de los enemigos autónomos. Y gestionar la salud del personaje principal (player) Tip: Utilizar Colliders de Unity 5 para gestionar la salud.
-Utilizar Assets de modelos 3D y texturas de cualquier proveedor asociadas a su narrativa interactiva.
+<p align="center">
+  <a>
+    <img src="Images/FiniteStateMachine.png" width=350 height=190>
+  </a>
+</p>
 
 
 ### 2. Management AI Behaviours
