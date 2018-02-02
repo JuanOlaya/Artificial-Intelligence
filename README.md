@@ -30,7 +30,7 @@ Gestión de comportamientos por medio de [Finite State Machine](https://docs.uni
 
 <p align="center">
   <a>
-    <img src="Images/FiniteStateMachine.png" width=350 height=190>
+    <img src="Images/FiniteStateMachine.png" width=700 height=400>
   </a>
 </p>
 
