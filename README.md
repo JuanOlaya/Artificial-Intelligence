@@ -39,7 +39,7 @@ https://docs.unity3d.com/Manual/class-BlendTree.html
 
 <p align="center">
   <a>
-    <img src="Images/FiniteStateMachine.png" width=350 height=190>
+    <img src="Images/BlendTree.png" width=700 height=400>
   </a>
 </p>
 
