@@ -24,20 +24,31 @@ And exclusively for the main character:
 - Kicking
 - Punching 
 
+### 2. Management AI Behaviours
+MANAGEMENT AI BEHAVIOURS 
+Gestión de comportamientos por medio de [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html)
+
 <p align="center">
   <a>
     <img src="Images/FiniteStateMachine.png" width=350 height=190>
   </a>
 </p>
 
+Mezcla de comportamientos por medio de Blend Trees
+https://docs.unity3d.com/Manual/class-BlendTree.html
 
-### 2. Management AI Behaviours
-MANAGEMENT AI BEHAVIOURS 
-Gestión de comportamientos por medio de Finite State Machine (Máquina de Estados Finitos)
-https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html
+<p align="center">
+  <a>
+    <img src="Images/FiniteStateMachine.png" width=350 height=190>
+  </a>
+</p>
 
-Mezcla de comportamientos por medio de Blend Trees (Árboles de Mezcla)
-https://docs.unity3d.com/es/current/Manual/class-BlendTree.html
+Assigment 1: Create an Animator Controller and use the Animator (module???) to manage the following state (motion)
+
+Assigment 2: Create a Blend Tree to manage the animations related with the motion of the main character
+
+Assigment 3: Create a script that manage the movement of the Non-Player Characters (enemies)
+
 
 ### 3. Software Patterns for Health Player Management 
 
