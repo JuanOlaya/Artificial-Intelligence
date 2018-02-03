@@ -25,9 +25,14 @@ Also, we implemented the following non-artificial intelligence behaviours for th
 - Kicking
 - Punching 
 
-### 2. Blend Trees  (Unity Animator) 
+### 2. Blend Trees  (Animator window) 
 
-At the beginning of the course we focused on the implementation of the movement of the main character. We use the module Animator of Unity and his functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations such from idle to walking and from walking to running.
+At the beginning of this course we focused on the implementation of main character's movement. We use the Animator window of Unity and his functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations. For instance, from walking to running.
+
+In the Animator Controller we blend the following character's animations:
+- Idle to Turn Right and Turn Left
+- Walk Backward to Walk Backward Right and Walk Backward Left
+- Walk Bacward to Idle and Walk Forward
 
 <p align="center">
   <a>
@@ -35,9 +40,9 @@ At the beginning of the course we focused on the implementation of the movement 
   </a>
 </p>
 
-Assigment 2: Create a Blend Tree to manage the animations related with the motion of the main character
+Assigment: Create a Blend Tree to manage the animations related with the motion of the main character that we spoke above. Use the Animator window of Unity.
 
-### 3. Finite State Machine (Unity Animator)  
+### 3. Finite State Machine (Animator window)  
 (Management AI Behaviours)
 Gestión de comportamientos por medio de [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html)
 
@@ -46,9 +51,15 @@ Gestión de comportamientos por medio de [Finite State Machine](https://docs.uni
     <img src="Images/FiniteStateMachine.png" width=700 height=400>
   </a>
 </p>
-Assigment: Create an Animator Controller and use the Animator (module???) to manage the following state (motion)
+Assigment: Create an Animator Controller and use the Animator window to create transitions From "Any State" to link and manage the following state (animations):
+- Jumping
+- Kicking
+- Punching 
+- Dying
+- Punching Reaction
+- Blend Tree
 
-### 4. Scripting 
+### 4. Chase Script 
 
 PONER EL GIF
 
@@ -57,6 +68,10 @@ Assigment 3: Create a script that manage the movement of the Non-Player Characte
 - Attacking Behaviour
 - Pursuing Behaviour (Pathfinding)
 - Return to patrolling when the chase is canceled (Pathfinding)
+
+### 5. Detect Hit Scritp
+
+
 
 
 
