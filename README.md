@@ -43,8 +43,7 @@ In the Animator Controller we blend the following character's animations:
 Assigment: Create a Blend Tree to manage the animations related with the motion of the main character that we spoke above. Use the Animator window of Unity.
 
 ### 3. Finite State Machine (Animator window)  
-(Management AI Behaviours)
-Gestión de comportamientos por medio de [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html)
+We use the functionality of Unity [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html) using the Animator window to manage the behaviours that must available in any moment with Any State including the Blend Tree associated with the main character's movement.
 
 <p align="center">
   <a>
@@ -58,7 +57,7 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 - Punching 
 - Dying
 - Punching Reaction
-- Blend Tree
+- Includign the Blend Tree
 
 ### 4. Chase Script 
 
