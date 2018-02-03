@@ -27,7 +27,7 @@ Also, we implemented the following non-artificial intelligence behaviours for th
 
 ### 2. Blend Trees  (Animator window) 
 
-At the beginning of this course we focused on the implementation of main character's movement. We use the Animator window of Unity and his functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations. For instance, from walking to running.
+At the beginning of this course we focused on the implementation of main character's movement. We use the Animator window of Unity and its functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations. For instance, from walking to running.
 
 In the Animator Controller we blend the following character's animations:
 - Idle to Turn Right and Turn Left
@@ -77,11 +77,10 @@ Assigment 3: Create a script that manage the movement of the Non-Player Characte
 
 ### 4. Software Patterns for Health Player Management 
 
-Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the colisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. 
+Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the collisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. 
 
-INCLUYENDO LA GESTIÓN DE:
-- Dying Behaviour
-- Shove Reaction 
+Take into account that you must to create a script for manage the health 
+And each enemy must to have a copy of script 
 
 Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 
@@ -102,7 +101,8 @@ Sound Effects
 - [Artificial Intelligence: A Modern Approach, Russell (2009)](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_1?s=books&ie=UTF8&qid=1517513059&sr=1-1)
 
 ### Student Projects
-The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This course was taught in the second semester of the year 2017.1 The video below shows these projects:
+The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This
+course was taught in the second semester of the year 2017.1 The video below shows these projects:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dm2Lv3_lKhE&t=1s" target="_blank">
     <img src="Images/YoutubeVideo.png" width=600 height=340>
@@ -118,3 +118,7 @@ The students designed and developed (###) Entertainment Games using Unity in the
 
 ***
 Jumping (Saltar) : De acuerdo a la información que envié al correo
+
+INCLUYENDO LA GESTIÓN DE:
+- Dying Behaviour
+- Shove Reaction
