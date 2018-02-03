@@ -6,18 +6,18 @@ For this course we use [Unity 3D](https://unity3d.com/) as game engine and [Mixa
 
 ### 1. Animated Characteres and AI Behaviours for Video games
 
-For this course we developed a third person video games with groups of Non-Player Characters (NPC) as enemies with the following AI Behaviours:
+For this course we developed a third person video games. We use Non-Player Characters (NPC) as enemies with the following AI Behaviours:
 
 - Patrolling Behaviour
-- Attacking Behaviour
 - Pursuing Behaviour (Pathfinding)
+- Attacking Behaviour
 - Return to patrolling when the chase is canceled (Pathfinding)
 
-For the main character and Non-Player Characters we implement:
+For the main character and Non-Player Characters we implemented:
 - Dying Behaviour
 - Shove Reaction 
 
-And exclusively for the main character:
+Also, we implemented the following non-artificial intelligence behaviours for the movement of the main character:
 - Idle
 - Walking
 - Turning
@@ -27,7 +27,7 @@ And exclusively for the main character:
 
 ### 2. Blend Trees  (Unity Animator) 
 (Mezcla de comportamientos por medio de Blend Trees)
-https://docs.unity3d.com/Manual/class-BlendTree.html
+At the beginning of the course we focused on the implementation of the movement of the main character. We use the module Animator of Unity and his functionality for [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations such from idle to walking and from walking to running.
 
 <p align="center">
   <a>
