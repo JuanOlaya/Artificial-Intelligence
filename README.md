@@ -25,18 +25,7 @@ And exclusively for the main character:
 - Kicking
 - Punching 
 
-### 2. Finite State Machine (Unity Animator)  
-(Management AI Behaviours)
-Gestión de comportamientos por medio de [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html)
-
-<p align="center">
-  <a>
-    <img src="Images/FiniteStateMachine.png" width=700 height=400>
-  </a>
-</p>
-Assigment: Create an Animator Controller and use the Animator (module???) to manage the following state (motion)
-
-### 3. Blend Trees  (Unity Animator) 
+### 2. Blend Trees  (Unity Animator) 
 (Mezcla de comportamientos por medio de Blend Trees)
 https://docs.unity3d.com/Manual/class-BlendTree.html
 
@@ -47,6 +36,17 @@ https://docs.unity3d.com/Manual/class-BlendTree.html
 </p>
 
 Assigment 2: Create a Blend Tree to manage the animations related with the motion of the main character
+
+### 3. Finite State Machine (Unity Animator)  
+(Management AI Behaviours)
+Gestión de comportamientos por medio de [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html)
+
+<p align="center">
+  <a>
+    <img src="Images/FiniteStateMachine.png" width=700 height=400>
+  </a>
+</p>
+Assigment: Create an Animator Controller and use the Animator (module???) to manage the following state (motion)
 
 ### 4. Scripting 
 
