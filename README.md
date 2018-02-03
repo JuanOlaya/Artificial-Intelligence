@@ -52,6 +52,7 @@ Gestión de comportamientos por medio de [Finite State Machine](https://docs.uni
   </a>
 </p>
 Assigment: Create an Animator Controller and use the Animator window to create transitions From "Any State" to link and manage the following state (animations):
+
 - Jumping
 - Kicking
 - Punching 
@@ -63,28 +64,21 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 
 PONER EL GIF
 
-Assigment 3: Create a script that manage the movement of the Non-Player Characters (enemies) with the following AI behaviours:
+Assigment: Create a script that manage the movement of the Non-Player Characters (enemies) with the following AI behaviours:
 - Patrolling Behaviour
 - Attacking Behaviour
 - Pursuing Behaviour (Pathfinding)
 - Return to patrolling when the chase is canceled (Pathfinding)
 
-### 5. Detect Hit Scritp
-
-
-
-
-
-### 6. Software Patterns for Health Player Management 
+### 5. Software Patterns for Health Player Management 
 
 Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the collisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. 
 
-Take into account that you must to create a script for manage the health 
-And each enemy must to have a copy of script 
+Take into account that this script must to management the Dying Behaviour and the Shove Reaction (character animations)
 
 Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 
-### 7. Interactive Experience
+### 6. Interactive Experience
 For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
 
 Waypoints (to move characters, animals or vehicles around)
@@ -115,10 +109,3 @@ course was taught in the second semester of the year 2017.1 The video below show
 - [Google Poly](https://poly.google.com/)
 - [Asset Store](https://www.assetstore.unity3d.com)
 - [Textures](https://www.textures.com/)
-
-***
-Jumping (Saltar) : De acuerdo a la información que envié al correo
-
-INCLUYENDO LA GESTIÓN DE:
-- Dying Behaviour
-- Shove Reaction
