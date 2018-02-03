@@ -1,4 +1,4 @@
-# ARTIFICIAL INTELLIGENCE FOR VIDEO GAMES (UNITY+MIXAMO)
+# ARTIFICIAL INTELLIGENCE FOR VIDEO GAMES (UNITY + MIXAMO)
 
 This repository is associated with the subject Artificial Intelligence for Video Games taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya in the semester 2017.1.
 
