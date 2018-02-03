@@ -26,8 +26,8 @@ Also, we implemented the following non-artificial intelligence behaviours for th
 - Punching 
 
 ### 2. Blend Trees  (Unity Animator) 
-(Mezcla de comportamientos por medio de Blend Trees)
-At the beginning of the course we focused on the implementation of the movement of the main character. We use the module Animator of Unity and his functionality for [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations such from idle to walking and from walking to running.
+
+At the beginning of the course we focused on the implementation of the movement of the main character. We use the module Animator of Unity and his functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations such from idle to walking and from walking to running.
 
 <p align="center">
   <a>
