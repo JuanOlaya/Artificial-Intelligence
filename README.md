@@ -4,9 +4,9 @@ This repository is associated with the subject Artificial Intelligence for Video
 
 For this course we use [Unity 3D](https://unity3d.com/) as game engine and [Mixamo](https://www.mixamo.com/) as 3D animated characters repository
 
-### 1. AI Behaviours for Video games
+### 1. Animated Characteres and AI Behaviours for Video games
 
-For this course we developed a third person video games with groups of Non-Player Characters (NPC) as enemies with following AI Behaviours:
+For this course we developed a third person video games with groups of Non-Player Characters (NPC) as enemies with the following AI Behaviours:
 
 - Patrolling Behaviour
 - Attacking Behaviour
@@ -25,8 +25,8 @@ And exclusively for the main character:
 - Kicking
 - Punching 
 
-### 2. Finite State Machine (Unity Animator)  (Management AI Behaviours)
-MANAGEMENT AI BEHAVIOURS 
+### 2. Finite State Machine (Unity Animator)  
+(Management AI Behaviours)
 Gestión de comportamientos por medio de [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html)
 
 <p align="center">
@@ -36,7 +36,8 @@ Gestión de comportamientos por medio de [Finite State Machine](https://docs.uni
 </p>
 Assigment: Create an Animator Controller and use the Animator (module???) to manage the following state (motion)
 
-### 3. Blend Trees  (Unity Animator) (Mezcla de comportamientos por medio de Blend Trees)
+### 3. Blend Trees  (Unity Animator) 
+(Mezcla de comportamientos por medio de Blend Trees)
 https://docs.unity3d.com/Manual/class-BlendTree.html
 
 <p align="center">
@@ -51,12 +52,21 @@ Assigment 2: Create a Blend Tree to manage the animations related with the motio
 
 PONER EL GIF
 
-Assigment 3: Create a script that manage the movement of the Non-Player Characters (enemies)
+Assigment 3: Create a script that manage the movement of the Non-Player Characters (enemies) with the following AI behaviours:
+- Patrolling Behaviour
+- Attacking Behaviour
+- Pursuing Behaviour (Pathfinding)
+- Return to patrolling when the chase is canceled (Pathfinding)
+
 
 
 ### 3. Software Patterns for Health Player Management 
 
-Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the colisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character.
+Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the colisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. 
+
+INCLUYENDO LA GESTIÓN DE:
+- Dying Behaviour
+- Shove Reaction 
 
 Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 
