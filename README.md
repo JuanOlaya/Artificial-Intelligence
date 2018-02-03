@@ -18,13 +18,14 @@ For the main character and Non-Player Characters we implement:
 - Shove Reaction 
 
 And exclusively for the main character:
+- Idle
 - Walking
 - Turning
 - Jumping
 - Kicking
 - Punching 
 
-### 2. Management AI Behaviours
+### 2. Finite State Machine (Unity Animator)  (Management AI Behaviours)
 MANAGEMENT AI BEHAVIOURS 
 Gestión de comportamientos por medio de [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html)
 
@@ -33,8 +34,9 @@ Gestión de comportamientos por medio de [Finite State Machine](https://docs.uni
     <img src="Images/FiniteStateMachine.png" width=700 height=400>
   </a>
 </p>
+Assigment: Create an Animator Controller and use the Animator (module???) to manage the following state (motion)
 
-Mezcla de comportamientos por medio de Blend Trees
+### 3. Blend Trees  (Unity Animator) (Mezcla de comportamientos por medio de Blend Trees)
 https://docs.unity3d.com/Manual/class-BlendTree.html
 
 <p align="center">
@@ -43,9 +45,11 @@ https://docs.unity3d.com/Manual/class-BlendTree.html
   </a>
 </p>
 
-Assigment 1: Create an Animator Controller and use the Animator (module???) to manage the following state (motion)
-
 Assigment 2: Create a Blend Tree to manage the animations related with the motion of the main character
+
+### 4. Scripting 
+
+PONER EL GIF
 
 Assigment 3: Create a script that manage the movement of the Non-Player Characters (enemies)
 
@@ -73,7 +77,7 @@ Sound Effects
 - [Artificial Intelligence: A Modern Approach, Russell (2009)](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_1?s=books&ie=UTF8&qid=1517513059&sr=1-1)
 
 ### Student Projects
-The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This course was taught in the second semester of the year 2017. The video below shows these projects:
+The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This course was taught in the second semester of the year 2017.1 The video below shows these projects:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dm2Lv3_lKhE&t=1s" target="_blank">
     <img src="Images/YoutubeVideo.png" width=600 height=340>
