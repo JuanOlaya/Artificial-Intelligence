@@ -25,7 +25,11 @@ Also, we implemented the following non-artificial intelligence behaviours for th
 - Kicking
 - Punching 
 
-### 2. Blend Trees  (Animator window) 
+### 2. Game View Assets
+
+PONER IMAGEN 
+
+### 3. Blend Trees  (Animator window) 
 
 At the beginning of this course we focused on the implementation of main character's movement. We use the Animator window of Unity and its functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations. For instance, from walking to running.
 
@@ -42,7 +46,7 @@ In the Animator Controller we blend the following character's animations:
 
 Assigment: Create a Blend Tree to manage the animations related with the motion of the main character that we spoke above. Use the Animator window of Unity.
 
-### 3. Finite State Machine (Animator window)  
+### 4. Finite State Machine (Animator window)  
 We use the functionality of Unity [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html) using the Animator window to manage the behaviours that must available in any moment with Any State including the Blend Tree associated with the main character's movement.
 
 <p align="center">
@@ -59,9 +63,10 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 - Punching Reaction
 - Includign the Blend Tree
 
-### 4. Chase Script 
+### 5. Chase Script 
 
 PONER EL GIF
+PONER FRAGMENTO DEL SCRIPT
 
 Assigment: Create a script that manage the movement of the Non-Player Characters (enemies) with the following AI behaviours:
 - Patrolling Behaviour
@@ -69,7 +74,7 @@ Assigment: Create a script that manage the movement of the Non-Player Characters
 - Pursuing Behaviour (Pathfinding)
 - Return to patrolling when the chase is canceled (Pathfinding)
 
-### 5. Software Patterns for Health Player Management 
+### 6. Software Patterns for Health Player Management 
 
 Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the collisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. 
 
@@ -77,7 +82,7 @@ Take into account that this script must to management the Dying Behaviour and th
 
 Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 
-### 6. Interactive Experience
+### 7. Interactive Experience
 For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
 
 Waypoints (to move characters, animals or vehicles around)
