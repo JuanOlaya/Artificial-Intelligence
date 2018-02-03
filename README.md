@@ -75,7 +75,7 @@ Assigment 3: Create a script that manage the movement of the Non-Player Characte
 
 
 
-### 4. Software Patterns for Health Player Management 
+### 6. Software Patterns for Health Player Management 
 
 Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the collisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. 
 
@@ -84,7 +84,7 @@ And each enemy must to have a copy of script
 
 Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 
-### 5. Interactive Experience
+### 7. Interactive Experience
 For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
 
 Waypoints (to move characters, animals or vehicles around)
