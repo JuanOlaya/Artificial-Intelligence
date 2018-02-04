@@ -99,7 +99,7 @@ Sound Effects
 - [Artificial Intelligence: A Modern Approach, Russell (2009)](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_1?s=books&ie=UTF8&qid=1517513059&sr=1-1)
 
 ### Student Projects
-The students designed and developed (###) Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This
+The students designed and developed 4 Entertainment Games using Unity in the course Artificial Intelligence for Video Games. This
 course was taught in the second semester of the year 2017.1 The video below shows these projects:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dm2Lv3_lKhE&t=1s" target="_blank">
