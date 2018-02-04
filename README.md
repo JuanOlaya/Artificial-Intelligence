@@ -25,10 +25,6 @@ Also, we implemented the following non-artificial intelligence behaviours for th
 - Kicking
 - Punching 
 
-### 2. Game View Assets
-
-PONER IMAGEN 
-
 ### 3. Blend Trees  (Animator window) 
 
 At the beginning of this course we focused on the implementation of main character's movement. We use the Animator window of Unity and its functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations. For instance, from walking to running.
@@ -45,6 +41,12 @@ In the Animator Controller we blend the following character's animations:
 </p>
 
 Assigment: Create a Blend Tree to manage the animations related with the motion of the main character that we spoke above. Use the Animator window of Unity. Also create an interface script that map the input of the keyboard and the Animator Controller.
+
+<p align="center">
+  <a>
+    <img src="Images/BlendTree.png" width=700 height=400>
+  </a>
+</p>
 
 ### 4. Finite State Machine (Animator window)  
 We use the functionality of Unity [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html) using the Animator window to manage the behaviours that must available in any moment with Any State including the Blend Tree associated with the main character's movement.
