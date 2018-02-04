@@ -44,7 +44,7 @@ In the Animator Controller we blend the following character's animations:
   </a>
 </p>
 
-Assigment: Create a Blend Tree to manage the animations related with the motion of the main character that we spoke above. Use the Animator window of Unity.
+Assigment: Create a Blend Tree to manage the animations related with the motion of the main character that we spoke above. Use the Animator window of Unity. Also create an interface script that map the input of the keyboard and the Animator Controller.
 
 ### 4. Finite State Machine (Animator window)  
 We use the functionality of Unity [Finite State Machine](https://docs.unity3d.com/es/current/Manual/StateMachineBasics.html) using the Animator window to manage the behaviours that must available in any moment with Any State including the Blend Tree associated with the main character's movement.
