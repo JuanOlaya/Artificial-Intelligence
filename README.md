@@ -44,7 +44,7 @@ Assigment: Create a Blend Tree to manage the animations related with the motion 
 
 <p align="center">
   <a>
-    <img src="Images/BlendTree.png" width=700 height=400>
+    <img src="Images/MovementScript.png" width=700 height=400>
   </a>
 </p>
 
