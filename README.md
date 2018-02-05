@@ -36,7 +36,7 @@ In the Animator Controller we blend the following character's animations:
 
 <p align="center">
   <a>
-    <img src="Images/BlendTree.png" width=350 height=200>
+    <img src="Images/BlendTree.png" width=500 height=300>
   </a>
 </p>
 
@@ -53,7 +53,7 @@ We use the functionality of Unity [Finite State Machine](https://docs.unity3d.co
 
 <p align="center">
   <a>
-    <img src="Images/FiniteStateMachine.png" width=350 height=200>
+    <img src="Images/FiniteStateMachine.png" width=500 height=300>
   </a>
 </p>
 Assigment: Create an Animator Controller and use the Animator window to create transitions From "Any State" to link and manage the following state (animations):
@@ -67,18 +67,17 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 
 ### 5. Chasing Script 
 
-<p align="center">
-  <a>
-    <img src="Images/patrollingZombie.gif" width=350 height=200>
-  </a>
-</p>
-PONER FRAGMENTO DEL SCRIPT
-
 Assigment: Create a script that manage the movement of the Non-Player Characters (enemies) with the following AI behaviours:
 - Patrolling Behaviour
 - Attacking Behaviour
 - Pursuing Behaviour (Pathfinding)
 - Return to patrolling when the chase is canceled (Pathfinding)
+
+<p align="center">
+  <a>
+    <img src="Images/patrollingZombie.gif" width=350 height=200>
+  </a>
+</p>
 
 ### 6. Software Patterns for Health Player Management 
 
