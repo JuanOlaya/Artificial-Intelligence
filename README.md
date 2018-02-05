@@ -27,9 +27,8 @@ Also, we implemented the following non-artificial intelligence behaviours for th
 
 ### 3. Blend Trees  (Animator window) 
 
-At the beginning of this course we focused on the implementation of main character's movement. We use the Animator window of Unity and its functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations. For instance, from walking to running.
+At the beginning of this course we focused on the implementation of main character's movement. We use the Animator window of Unity and its functionality [Blend Trees](https://docs.unity3d.com/Manual/class-BlendTree.html). This functionality allows us blend character's animations. For instance, from walking to running. In the Animator Controller we blend the following character's animations:
 
-In the Animator Controller we blend the following character's animations:
 - Idle to Turn Right and Turn Left
 - Walk Backward to Walk Backward Right and Walk Backward Left
 - Walk Bacward to Idle and Walk Forward
