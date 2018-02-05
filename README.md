@@ -1,6 +1,6 @@
 # ARTIFICIAL INTELLIGENCE (UNITY + MIXAMO)
 
-This repository is associated with the subject Artificial Intelligence for Video Games taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya in the semester 2017.1.
+This repository is associated with the course Artificial Intelligence for Video Games taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya in the semester 2017.1.
 
 For this course we use [Unity 3D](https://unity3d.com/) as game engine and [Mixamo](https://www.mixamo.com/) as 3D animated characters repository
 
@@ -67,7 +67,7 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 
 ### 5. Chasing Script 
 
-Assigment: Create a script that manage the movement of the Non-Player Characters (enemies) with the following AI behaviours:
+Assigment: Create 5 waypoints in the Scene View of Unity and locate a Non-Player Character (enemy) near of these waypoints. Create a script that manage the movement of the Non-Player Characters with the following AI behaviours:
 - Patrolling Behaviour
 - Attacking Behaviour
 - Pursuing Behaviour (Pathfinding)
@@ -81,11 +81,9 @@ Assigment: Create a script that manage the movement of the Non-Player Characters
 
 ### 6. Software Patterns for Health Player Management 
 
-Assignment: Manage the health for the main character and the enemies. For this assignment, you must to detect the collisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. 
+Assignment 1: Manage the health for the main character and the enemies. For this assignment, you must to detect the collisions between NPC and the main properly using scritping and colliders in Unity. Then, create a health bar (HUD) that shows the amount of health for the main character. Take into account that this script must to management the Dying Behaviour and the Shove Reaction (character animations)
 
-Take into account that this script must to management the Dying Behaviour and the Shove Reaction (character animations)
-
-Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
+Assignment 2: Identify the software patterns that have been used by these scripts. Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
 
 ### 7. Interactive Experience
 For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
