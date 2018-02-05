@@ -11,10 +11,6 @@ For this course we developed a third person video games. We use Non-Player Chara
 - Attacking Behaviour
 - Return to patrolling when the chase is canceled (Pathfinding)
 
-For the main character and Non-Player Characters we implemented:
-- Dying Behaviour
-- Shove Reaction 
-
 Also, we implemented the following non-artificial intelligence behaviours for the movement of the main character:
 - Idle
 - Walking
@@ -22,6 +18,10 @@ Also, we implemented the following non-artificial intelligence behaviours for th
 - Jumping
 - Kicking
 - Punching 
+
+And for both, the main character and Non-Player Characters we implemented:
+- Dying Behaviour
+- Shove Reaction 
 
 ### 3. Blend Trees  (Animator window) 
 
