@@ -71,7 +71,8 @@ Assigment: Create 5 waypoints in the Scene View of Unity and locate a Non-Player
 
 <p align="center">
   <a>
-    <img src="Images/patrollingZombie.gif" alt="Patrolling Behaviour" width=350 height=200>
+    <img src="Images/patrollingZombie.gif"  width=350 height=200>
+    <figcaption>Patrolling</figcaption>
   </a>
 </p>
 
