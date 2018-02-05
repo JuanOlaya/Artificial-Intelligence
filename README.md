@@ -54,7 +54,6 @@ We use the functionality of Unity [Finite State Machine](https://docs.unity3d.co
   </a>
 </p>
 Assigment: Create an Animator Controller and use the Animator window to create transitions From "Any State" to link and manage the following state (animations):
-
 - Jumping
 - Kicking
 - Punching 
