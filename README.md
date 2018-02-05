@@ -36,7 +36,7 @@ In the Animator Controller we blend the following character's animations:
 
 <p align="center">
   <a>
-    <img src="Images/BlendTree.png" width=700 height=400>
+    <img src="Images/BlendTree.png" width=350 height=200>
   </a>
 </p>
 
@@ -53,7 +53,7 @@ We use the functionality of Unity [Finite State Machine](https://docs.unity3d.co
 
 <p align="center">
   <a>
-    <img src="Images/FiniteStateMachine.png" width=700 height=400>
+    <img src="Images/FiniteStateMachine.png" width=350 height=200>
   </a>
 </p>
 Assigment: Create an Animator Controller and use the Animator window to create transitions From "Any State" to link and manage the following state (animations):
@@ -69,7 +69,7 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 
 <p align="center">
   <a>
-    <img src="Images/patrollingZombie.gif" width=700 height=400>
+    <img src="Images/patrollingZombie.gif" width=350 height=200>
   </a>
 </p>
 PONER FRAGMENTO DEL SCRIPT
