@@ -33,7 +33,7 @@ At the beginning of this course we focused on the implementation of main charact
 
 <p align="center">
   <a>
-    <img src="Images/BlendTree.png" width=500 height=300>
+    <img src="Images/BlendTree.png" width=500 height=280>
   </a>
 </p>
 
@@ -50,7 +50,7 @@ We use the functionality of Unity [Finite State Machine](https://docs.unity3d.co
 
 <p align="center">
   <a>
-    <img src="Images/FiniteStateMachine.png" width=500 height=300>
+    <img src="Images/FiniteStateMachine.png" width=500 height=280>
   </a>
 </p>
 Assigment: Create an Animator Controller and use the Animator window to create transitions From "Any State" to link and manage the following state (animations):
@@ -83,12 +83,11 @@ Assignment 2: Identify the software patterns that have been used by these script
 
 ### 7. Interactive Experience
 For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
-
-Waypoints (to move characters, animals or vehicles around)
-Textures
-Physics Simulation
-Explosion Simulation
-Sound Effects
+- Waypoints (to move characters, animals or vehicles around)
+- Textures
+- Physics Simulation
+- Explosion Simulation
+- Sound Effects
 
 ### AI Bibliography
 - [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
