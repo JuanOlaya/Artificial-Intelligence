@@ -63,7 +63,7 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 
 ### 4. Chasing Script (Navmesh)
 
-Assigment: Create 5 waypoints in the Scene View of Unity and locate a Non-Player Character (enemy) near of these waypoints. Create a [Navmesh](https://docs.unity3d.com/Manual/nav-BuildingNavMesh.html) taking into account the obstacles and the tilts of the terrain. Create a script that manage the movement of the Non-Player Characters with the following AI behaviours:
+Assigment: Create 5 waypoints in the Scene View of Unity and locate a Non-Player Character (enemy) near of these waypoints. Create a [Navigation Mesh](https://docs.unity3d.com/Manual/nav-BuildingNavMesh.html) taking into account the obstacles and the tilts of the terrain. Create a script that manage the movement of the Non-Player Characters with the following AI behaviours:
 - Patrolling Behaviour
 - Attacking Behaviour
 - Pursuing Behaviour (Pathfinding with Navmesh)
