@@ -44,7 +44,7 @@ Assigment: Create a Blend Tree to manage the animations related with the motion 
 
 <p align="center">
   <a>
-    <img src="Images/MovementScript.png" width=200 height=150>
+    <img src="Images/MovementScript.png" width=150 height=150>
   </a>
 </p>
 
@@ -65,9 +65,13 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 - Punching Reaction
 - Includign the Blend Tree
 
-### 5. Chase Script 
+### 5. Chasing Script 
 
-PONER EL GIF
+<p align="center">
+  <a>
+    <img src="Images/patrollingZombie.gif" width=700 height=400>
+  </a>
+</p>
 PONER FRAGMENTO DEL SCRIPT
 
 Assigment: Create a script that manage the movement of the Non-Player Characters (enemies) with the following AI behaviours:
