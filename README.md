@@ -61,13 +61,13 @@ Assigment: Create an Animator Controller and use the Animator window to create t
 - Punching Reaction
 - Includign the Blend Tree
 
-### 4. Chasing Script 
+### 4. Chasing Script (Navmesh)
 
-Assigment: Create 5 waypoints in the Scene View of Unity and locate a Non-Player Character (enemy) near of these waypoints. Create a script that manage the movement of the Non-Player Characters with the following AI behaviours:
+Assigment: Create 5 waypoints in the Scene View of Unity and locate a Non-Player Character (enemy) near of these waypoints. Create a Navmesh taking into account the obstacles and the tilts of the terrain. Create a script that manage the movement of the Non-Player Characters with the following AI behaviours:
 - Patrolling Behaviour
 - Attacking Behaviour
-- Pursuing Behaviour (Pathfinding)
-- Return to patrolling when the chase is canceled (Pathfinding)
+- Pursuing Behaviour (Pathfinding with Navmesh)
+- Return to patrolling when the chase is canceled (Pathfinding with Navmesh)
 
 <p align="center">
   <a>
