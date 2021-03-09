@@ -1,4 +1,4 @@
-# ARTIFICIAL INTELLIGENCE (UNITY + MIXAMO)
+# ARTIFICIAL INTELLIGENCE FOR CHARACTERS (UNITY + MIXAMO)
 
 This repository is associated with the course Artificial Intelligence for Video Games taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya in the semester 2017.1. For this course we use [Unity 3D](https://unity3d.com/) as game engine and [Mixamo](https://www.mixamo.com/) as 3D animated characters repository.
 
